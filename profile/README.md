@@ -1,4 +1,4 @@
-# ComputerGenieCo
+ComputerGenieCo
 ## About Us
 
 Welcome to ComputerGenieCo! We are a dedicated team focused on creating innovative applications for the [VerusCoin](https://veruscoin.io/) and [KomodoPlatform](https://komodoplatform.com/) ecosystems. Our mission is to leverage cutting-edge technology to build tools and solutions that drive the adoption and utility of these blockchain platforms.
